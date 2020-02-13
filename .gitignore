@@ -1,0 +1,4 @@
+*.csv
+.env
+*.gsheet
+node_modules/
